@@ -1,0 +1,5 @@
+User-Agent: *
+Disallow: /logs/
+Disallow: /tinc
+Disallow: /
+Disallow: *

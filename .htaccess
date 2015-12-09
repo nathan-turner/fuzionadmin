@@ -1,0 +1,2 @@
+ErrorDocument 404 http://fuzionhg.com/404.html
+AddType x-mapp-php5 .php
